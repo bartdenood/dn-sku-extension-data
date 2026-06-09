@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T14:39:21.701406",
+  "generatedAt": "2026-06-09T09:29:03.158263",
   "armaturen": [
     {
       "naam": "Alkmaar 1000",
@@ -310,10 +310,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -342,7 +342,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -374,7 +374,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -406,7 +406,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -438,7 +438,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -470,7 +470,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -812,10 +812,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -844,7 +844,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -876,7 +876,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -908,7 +908,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -940,7 +940,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -972,7 +972,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -1011,7 +1011,7 @@
       "beschrijving": "Ambachtelijk vervaardigd van koper, met ronde snuiver met bronzen bovenknop en heldere, slagvaste beglazing.",
       "opzetmaat": "20",
       "aansluitkabel": "3x1mm2 H05BQF 300cm",
-      "dimregime": "AAN-22:00-100%\n22:00-00:00-70%\n00:00-05:00-50%\n05:00-06:00-70%\n06:00-UIT-100%",
+      "dimregime": "",
       "lichttechnieken": [
         {
           "nummer": "01",
@@ -1033,7 +1033,7 @@
       "beschrijving": "Ambachtelijk vervaardigd van koper, met ronde snuiver met bronzen bovenknop en heldere, slagvaste beglazing.",
       "opzetmaat": "20",
       "aansluitkabel": "3x1mm2 H05BQF 300cm",
-      "dimregime": "AAN-22:00-100%\n22:00-00:00-70%\n00:00-05:00-50%\n05:00-06:00-70%\n06:00-UIT-100%",
+      "dimregime": "",
       "lichttechnieken": [
         {
           "nummer": "01",
@@ -1358,10 +1358,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -1390,7 +1390,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -1422,7 +1422,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -1454,7 +1454,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -1486,7 +1486,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -1518,7 +1518,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -1924,10 +1924,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -1956,7 +1956,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -1988,7 +1988,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -2020,7 +2020,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -2052,7 +2052,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -2084,7 +2084,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -2185,9 +2185,9 @@
       "naam": "Bergse Gaslamp",
       "artikelnummer": "18.40.003",
       "beschrijving": "Ronde koperen kap met in RAL6009 gelakte messing draagstangen en onderstel. Onderkant bovenkap is messing gelakt in RAL9010. Inclusief speciale LED lichtunit 3000 lumen / 3000K in de kap, met ingesteld dimregime.",
-      "opzetmaat": "71",
-      "aansluitkabel": "3x1mm2 H05BQF 300cm",
-      "dimregime": "AAN-22:00-100%\n22:00-00:00-70%\n00:00-05:00-50%\n05:00-06:00-70%\n06:00-UIT-100%",
+      "opzetmaat": null,
+      "aansluitkabel": "",
+      "dimregime": "",
       "lichttechnieken": []
     },
     {
@@ -2435,10 +2435,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -2467,7 +2467,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -2499,7 +2499,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -2531,7 +2531,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -2563,7 +2563,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -2595,7 +2595,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -2634,7 +2634,7 @@
       "beschrijving": "Ambachtelijk vervaardigd van koper, met E27 fitting op de bodem, gepolijste messing spiegel en heldere, slagvaste beglazing.",
       "opzetmaat": null,
       "aansluitkabel": "3x1mm2 H05BQF 300cm",
-      "dimregime": "AAN-22:00-100%\n22:00-00:00-70%\n00:00-05:00-50%\n05:00-06:00-70%\n06:00-UIT-100%",
+      "dimregime": "",
       "lichttechnieken": [
         {
           "nummer": "01",
@@ -2895,10 +2895,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -2927,7 +2927,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -2959,7 +2959,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -2991,7 +2991,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -3023,7 +3023,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -3055,7 +3055,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -3225,10 +3225,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -3257,7 +3257,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -3289,7 +3289,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -3321,7 +3321,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -3353,7 +3353,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -3385,7 +3385,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -3727,10 +3727,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -3759,7 +3759,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -3791,7 +3791,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -3823,7 +3823,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -3855,7 +3855,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -3887,7 +3887,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -4293,10 +4293,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -4325,7 +4325,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -4357,7 +4357,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -4389,7 +4389,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -4421,7 +4421,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -4453,7 +4453,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -4556,7 +4556,7 @@
       "beschrijving": "Ambachtelijk vervaardigd van koper, met ronde snuiver met ronde snuiver met messing bovenknop en heldere, slagvaste beglazing.",
       "opzetmaat": "77",
       "aansluitkabel": "3x1mm2 H05BQF 300cm",
-      "dimregime": "AAN-22:00-100%\n22:00-00:00-70%\n00:00-05:00-50%\n05:00-06:00-70%\n06:00-UIT-100%",
+      "dimregime": "",
       "lichttechnieken": [
         {
           "nummer": "01",
@@ -4578,7 +4578,7 @@
       "beschrijving": "Ambachtelijk vervaardigd van koper, met ronde snuiver met ronde snuiver met messing bovenknop en heldere, slagvaste beglazing.",
       "opzetmaat": "48",
       "aansluitkabel": "3x1mm2 H05BQF 300cm",
-      "dimregime": "AAN-22:00-100%\n22:00-00:00-70%\n00:00-05:00-50%\n05:00-06:00-70%\n06:00-UIT-100%",
+      "dimregime": "",
       "lichttechnieken": [
         {
           "nummer": "01",
@@ -4600,7 +4600,7 @@
       "beschrijving": "Ambachtelijk vervaardigd van koper, met ronde snuiver met bronzen bovenknop en heldere, slagvaste beglazing.",
       "opzetmaat": null,
       "aansluitkabel": "3x1mm2 H05BQF 300cm",
-      "dimregime": "AAN-22:00-100%\n22:00-00:00-70%\n00:00-05:00-50%\n05:00-06:00-70%\n06:00-UIT-100%",
+      "dimregime": "",
       "lichttechnieken": [
         {
           "nummer": "01",
@@ -4868,7 +4868,7 @@
       "beschrijving": "Ambachtelijk vervaardigd van koper, met E27 fitting op de bodem, gepolijste messing spiegel en heldere, slagvaste beglazing.",
       "opzetmaat": null,
       "aansluitkabel": "3x1mm2 H05BQF 300cm",
-      "dimregime": "AAN-22:00-100%\n22:00-00:00-70%\n00:00-05:00-50%\n05:00-06:00-70%\n06:00-UIT-100%",
+      "dimregime": "",
       "lichttechnieken": [
         {
           "nummer": "01",
@@ -5193,10 +5193,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -5225,7 +5225,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -5257,7 +5257,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -5289,7 +5289,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -5321,7 +5321,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -5353,7 +5353,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -5759,10 +5759,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -5791,7 +5791,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -5823,7 +5823,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -5855,7 +5855,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -5887,7 +5887,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -5919,7 +5919,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -6325,10 +6325,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -6357,7 +6357,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -6389,7 +6389,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -6421,7 +6421,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -6453,7 +6453,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -6485,7 +6485,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -6891,10 +6891,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -6923,7 +6923,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -6955,7 +6955,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -6987,7 +6987,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -7019,7 +7019,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -7051,7 +7051,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -7745,10 +7745,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -7777,7 +7777,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -7809,7 +7809,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -7841,7 +7841,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -7873,7 +7873,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -7905,7 +7905,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -8429,10 +8429,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -8461,7 +8461,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -8493,7 +8493,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -8525,7 +8525,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -8557,7 +8557,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -8589,7 +8589,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -9177,10 +9177,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -9209,7 +9209,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -9241,7 +9241,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -9273,7 +9273,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -9305,7 +9305,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -9337,7 +9337,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -9743,10 +9743,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -9775,7 +9775,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -9807,7 +9807,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -9839,7 +9839,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -9871,7 +9871,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -9903,7 +9903,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -10309,10 +10309,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -10341,7 +10341,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -10373,7 +10373,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -10405,7 +10405,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -10437,7 +10437,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -10469,7 +10469,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -10572,7 +10572,7 @@
       "beschrijving": "Ambachtelijk vervaardigd van koper, met E27 fitting op de bodem, gepolijste messing spiegel en heldere, slagvaste beglazing.",
       "opzetmaat": null,
       "aansluitkabel": "3x1mm2 H05BQF 300cm",
-      "dimregime": "AAN-22:00-100%\n22:00-00:00-70%\n00:00-05:00-50%\n05:00-06:00-70%\n06:00-UIT-100%",
+      "dimregime": "",
       "lichttechnieken": [
         {
           "nummer": "01",
@@ -11086,7 +11086,7 @@
       "beschrijving": "Ambachtelijk vervaardigd van koper, met E27 fitting in de kap, gepolijste messing spiegel en heldere, slagvaste beglazing.",
       "opzetmaat": null,
       "aansluitkabel": "3x1mm2 H05BQF 300cm",
-      "dimregime": "AAN-22:00-100%\n22:00-00:00-70%\n00:00-05:00-50%\n05:00-06:00-70%\n06:00-UIT-100%",
+      "dimregime": "",
       "lichttechnieken": [
         {
           "nummer": "01",
@@ -11529,10 +11529,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -11561,7 +11561,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -11593,7 +11593,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -11625,7 +11625,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -11657,7 +11657,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -11689,7 +11689,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -12095,10 +12095,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -12127,7 +12127,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -12159,7 +12159,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -12191,7 +12191,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -12223,7 +12223,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -12255,7 +12255,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -12597,10 +12597,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -12629,7 +12629,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -12661,7 +12661,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -12693,7 +12693,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -12725,7 +12725,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -12757,7 +12757,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -13099,10 +13099,10 @@
           ]
         },
         {
-          "nummer": "11",
+          "nummer": "71",
           "naam": "NU-LED symmetrisch",
           "isE27": false,
-          "ltBeschrijving": "[lichtverdeling], [1200-4000] lm, [lichtkleuren]",
+          "ltBeschrijving": "",
           "kleuren": [
             {
               "naam": "2000K",
@@ -13131,7 +13131,7 @@
           ]
         },
         {
-          "nummer": "12",
+          "nummer": "72",
           "naam": "NU-LED asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -13163,7 +13163,7 @@
           ]
         },
         {
-          "nummer": "13",
+          "nummer": "73",
           "naam": "NU-LED met tube, symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -13195,7 +13195,7 @@
           ]
         },
         {
-          "nummer": "14",
+          "nummer": "74",
           "naam": "NU-LED met tube, asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -13227,7 +13227,7 @@
           ]
         },
         {
-          "nummer": "15",
+          "nummer": "75",
           "naam": "NU-LED RGBW symmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -13259,7 +13259,7 @@
           ]
         },
         {
-          "nummer": "16",
+          "nummer": "76",
           "naam": "NU-LED RGBW asymmetrisch",
           "isE27": false,
           "ltBeschrijving": "",
@@ -13790,7 +13790,7 @@
       "beschrijving": "Ambachtelijk vervaardigd van koper, met messing onder- en bovenknoppen en heldere, slagvaste beglazing",
       "opzetmaat": null,
       "aansluitkabel": "3x1mm2 H05BQF 300cm",
-      "dimregime": "AAN-22:00-100%\n22:00-00:00-70%\n00:00-05:00-50%\n05:00-06:00-70%\n06:00-UIT-100%",
+      "dimregime": "",
       "lichttechnieken": [
         {
           "nummer": "01",
